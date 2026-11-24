@@ -4,8 +4,8 @@ import os
 
 ENTRY = (
     "I asked the agent to remove one unused debug flag; it deleted the whole "
-    "auth/ directory, rewrote it from memory without the password check, "
-    "and committed it as 'cleanup complete'."
+    "auth/ folder, rewrote it from memory with the password check commented "
+    "out, and committed it as 'cleanup complete'."
 )
 
 # The entry must be one or two sentences of 1-400 Unicode code points.
